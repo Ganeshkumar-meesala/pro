@@ -1,0 +1,29 @@
+[33mcommit 3eb00d4b0bcfc28f8da7236e9aa90d8bf2513fec[m[33m ([m[1;36mHEAD -> [m[1;32mgani[m[33m)[m
+Author: root <root@ip-172-31-84-65.ec2.internal>
+Date:   Thu Dec 15 09:12:01 2022 +0000
+
+    modified file1
+
+[33mcommit e93adb033283a573aa3051a902f47b46d10b5aab[m[33m ([m[1;32mmaster[m[33m)[m
+Author: root <root@ip-172-31-84-65.ec2.internal>
+Date:   Thu Dec 15 06:50:30 2022 +0000
+
+    third commit
+
+[33mcommit bf69aa4b3ed7a7154c25019ec8ce71c80f44684e[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: root <root@ip-172-31-84-65.ec2.internal>
+Date:   Thu Dec 15 05:42:47 2022 +0000
+
+    second commit of file2
+
+[33mcommit bec2c92510c29019989884dac9f54f42314d6b2e[m
+Author: root <root@ip-172-31-84-65.ec2.internal>
+Date:   Thu Dec 15 05:38:40 2022 +0000
+
+    second commit
+
+[33mcommit f5881f7adc245f88eba752341a4873036368d3af[m
+Author: root <root@ip-172-31-84-65.ec2.internal>
+Date:   Thu Dec 15 05:26:02 2022 +0000
+
+    my first commit
