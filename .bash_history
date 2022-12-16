@@ -44,3 +44,19 @@ git branch gani
 git branch
 git checkout gani
 git branch
+ll
+ls -al
+cat>file1
+git status
+git commit -m "modified file1" file1
+git status
+git log
+git config user.name "devops"
+git config user.email "devops@gmail.com"
+git status
+git log
+git status
+git add .
+git status
+git commit -m "dot files commit"
+git log
